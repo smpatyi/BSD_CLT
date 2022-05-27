@@ -1,0 +1,58 @@
+ [
+     {
+      "row-type":"header",
+      "color": "green",
+      "hasLink":false,
+      "column-type":[{
+        "column":["Test Name", "Used For", "Description", "Preparation"]
+      }]
+     },
+    {
+      "row-type":"header",
+      "color":"gray",
+      "hasLink": false,
+      "column-type": [{
+        "column":["<h3>BMP (Basic Metabolic Panel) <br /> Used for: Screening/Diagnostic</h3> A group of 7-8 tests used as a screening tool to check for conditions like diabetes and kidney disease. You may be asked to fast for 10 to 12 hours prior to test."]
+      }]
+     },
+    {
+      "row-type":"header",
+      "color":"gray",
+      "hasLink": true,
+      "link":"#tests",
+      "column-type":[{
+        "column":["<a>GO BACK &#x21E7;</a>"]
+        }]
+    },
+    {
+      "row-type":"data",
+      "column-type":[{
+        "column":["Blood Glucose", "", "Glucose is a type of sugar that the body uses for energy. Abnormal glucose levels in your blood may be a sign of diabetes.", "For some blood glucose tests, you have to fast before your blood is drawn. Other blood glucose tests are done after a meal or at any time with no preparation."]
+      }]
+     },
+    {
+      "row-type":"data",
+      "column-type":[{
+        "column":["Calcium", "", "Calcium is an important mineral in the body. Abnormal calcium levels in the blood may be a sign of kidney problems, bone disease, thyroid disease, cancer, malnutrition, or another disorder.", ""]
+      }]
+     },
+    {
+      "row-type":"data",
+      "column-type":[{
+        "column":["Electrolytes (Electrolyte Panel)", "", "Electrolytes are minerals that help maintain fluid levels and acid-base balance in the body. They include sodium, potassium, bicarbonate, and chloride. Abnormal electrolyte levels may be a sign of dehydration, kidney disease, liver disease, heart failure, high blood pressure, or other disorders.", ""]
+      }]
+     },
+    {
+      "row-type":"data",
+      "column-type":[{
+        "column":["BUN (Blood Urea Nitrogen", "Kidney Function", "Blood tests for kidney function measure levels of and creatinine (kre-AT-ih-neen). Both of these are waste products that the kidneys filter out of the body. Abnormal BUN and creatinine levels may be signs of a kidney disease or disorder.", ""]
+      }]
+     },
+    {
+      "row-type":"data",
+      "column-type":[{
+        "column":["Creatinine (kre-AT-ih-neen)", "Kidney Function", "Waste product that the kidneys filter out of the body. Abnormal creatinine levels may be signs of a kidney disease or disorder.", ""]
+      }]
+     }
+   
+]

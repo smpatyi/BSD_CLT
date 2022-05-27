@@ -1,0 +1,63 @@
+ [
+     {
+      "row-type":"header",
+      "color":"green",
+      "hasLink": false,
+      "column-type":[{
+        "column":["Test Name","Description"]
+      }]
+     },
+    {
+      "row-type":"header",
+      "color":"gray",
+      "hasLink":false,
+      "column-type":[{
+        "column":["<h3>CBC (Complete Blood Count)<br />Used for: Diagnostic/Screening/Monitoring</h3>The CBC is one of the most common blood tests. It's often done as part of a routine checkup. The CBC can help detect blood diseases and disorders, such as anemia, infections, clotting problems, blood cancers, and immune system disorders. This test measures many different parts of your blood: shows nutritional status and toxic substance exposure."]
+      }]
+     },
+    {
+      "row-type":"header",
+      "color":"gray",
+      "hasLink": true,
+      "link":"#tests",
+      "column-type":[{
+        "column": ["<a>GO BACK &#x21E7;</a>"]
+      }]
+     },
+    {
+      "row-type":"data",
+      "column-type":[{
+        "column":["Red Blood Cells", "Red blood cells carry oxygen from your lungs to the rest of your body. Abnormal red blood cell levels may be a sign of anemia, dehydration (too little fluid in the body), bleeding, or another disorder."]
+      }]
+     },
+    {
+      "row-type":"data",
+      "column-type":[{
+        "column": ["White Blood Cells", "White blood cells are part of your immune system, which fights infections and diseases. Abnormal white blood cell levels may be a sign of infection, blood cancer, or an immune system disorder. A CBC measures the overall number of white blood cells in your blood. A CBC with differential looks at the amounts of different types of white blood cells in your blood."]
+      }]
+     },
+    {
+      "row-type":"data",
+      "column-type":[{
+        "column":["Platelets", "Platelets (PLATE-lets) are blood cell fragments that help your blood clot. They stick together to seal cuts or breaks on blood vessel walls and stop bleeding. Abnormal platelet levels may be a sign of a bleeding disorder (not enough clotting) or a thrombotic disorder (too much clotting)."]
+      }]
+     },
+    {
+      "row-type":"data",
+      "column-type":[{
+        "column":["Hemoglobin", "Hemoglobin (HEE-muh-glow-bin) is an iron-rich protein in red blood cells that carries oxygen. Abnormal hemoglobin levels may be a sign of anemia, sickle cell anemia, thalassemia (thal-a- SE-me-ah), or other blood disorders. If you have diabetes, excess glucose in your blood can attach to hemoglobin and raise the level of hemoglobin A1c."]
+      }]
+     },
+    {
+      "row-type":"data",
+      "column-type":[{
+        "column":["Hematocrit", "Hematocrit (hee-MAT-oh-crit) is a measure of how much space red blood cells take up in your blood. A high hematocrit leve might mean you're dehyrdated. A low hematocrit level might mean you have anemia. Abnormal hematocrit levels also may be a sign of a blood or bone marrow disorder."]
+      }]
+     },
+    {
+      "row-type":"data",
+      "column-type": [{
+        "column":["Mean Corpuscular Volume", "Mean corpuscular (kor-PUS-kyu-lar) volume (MCV) is a measure of the average size of your red blood cells. Abnormal MCV levels may be a sign of anemia or thalassemia."]
+      }]
+     }
+     ]
